@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+kijmnWeI4GrgHVY0iIyRF1GQoTj5A/NqkrMXPCL9VGW1vGnIYIxcDAUao3awnJEep/sdPPM3++2b5O4I089Fw==",
+  "dgSpecHash": "Vx7CQ8I3+I4IOcb8vCkBgMszERzN9T60XtKwyYegbEzaawMllh76DrynxRNEn7Eg36vy9hcXrZ7UtfJiWNNo0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\turan\\source\\repos\\Imece\\ImeceAPI\\ImeceAPI.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\turan\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\turan\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\turan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\turan\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.16\\microsoft.aspnetcore.authentication.jwtbearer.6.0.16.nupkg.sha512",
     "C:\\Users\\turan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\turan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\turan\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",

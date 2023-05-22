@@ -15,7 +15,7 @@ namespace CoreLayer.Enums
         Phone_Number_In_Use = 4,
         Email_Address_In_Use = 5,
 
-
+        User_Not_Found = 6,
 
         Access_Denied = 9998,
         Server_Error = 9999,

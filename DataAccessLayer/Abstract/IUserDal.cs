@@ -11,5 +11,6 @@ namespace DataAccessLayer.Abstract
     {
         public Task<bool> CheckUserEmailIsUniq(string email);
         public Task<bool> CheckUserPhoneIsUniq(string phone);
+        public Task<User> GetUserByPhone(string phone);
     }
 }

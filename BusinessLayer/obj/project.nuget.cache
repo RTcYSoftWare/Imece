@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wJfiDF7DrD2W+p55ikZnbg5qsMywhOMXmJT0kaGkx8FxeYx85NzmlN9YN1W817nLJYMC3IvmGQx3mx9HoeFOgg==",
+  "dgSpecHash": "2ATw22W510oYV4PtJbdkjIPvrSWJZ7RtTmM2Y6ar8F3Qvj1Nz2EL0YjEuCFlK9wOWPKhPag25+CwF0HiLMo3uw==",
   "success": true,
   "projectFilePath": "C:\\Users\\turan\\source\\repos\\Imece\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\turan\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\turan\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\turan\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\turan\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.16\\microsoft.aspnetcore.authentication.jwtbearer.6.0.16.nupkg.sha512",
     "C:\\Users\\turan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\turan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\turan\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",

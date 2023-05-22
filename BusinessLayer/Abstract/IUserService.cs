@@ -12,5 +12,7 @@ namespace BusinessLayer.Abstract
     public interface IUserService : IGenericService<User>
     {
         public Task<IResultModel> Register(UserRegisterDto userRegisterDto);
+        public Task<User> GetUserByPhone(string phone);
+        public Task<IResultModel> Login(string phone);
     }
 }

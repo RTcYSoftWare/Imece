@@ -29,5 +29,10 @@ namespace DataAccessLayer.EntityFramework
         {
             return await _context.Users.AnyAsync(x => x.Phone == phone);
         }
+
+        public async Task<User> GetUserByPhone(string phone)
+        {
+            return await _context.Users.FirstOrDefaultAsync(x => x.Phone == phone);
+        }
     }
 }

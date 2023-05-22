@@ -90,3 +90,4 @@ C:\Users\turan\source\repos\Imece\ImeceAPI\bin\Debug\net6.0\Autofac.dll
 C:\Users\turan\source\repos\Imece\ImeceAPI\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
 C:\Users\turan\source\repos\Imece\ImeceAPI\bin\Debug\net6.0\CoreLayer.dll
 C:\Users\turan\source\repos\Imece\ImeceAPI\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\turan\source\repos\Imece\ImeceAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
