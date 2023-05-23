@@ -61,7 +61,7 @@ namespace CoreLayer.Concrete
             return token;
         }
 
-        public CurrentUserModel GetCurrentWasher()
+        public CurrentUserModel GetCurrentUser()
         {
             CurrentUserModel currentUserModel = new CurrentUserModel();
 

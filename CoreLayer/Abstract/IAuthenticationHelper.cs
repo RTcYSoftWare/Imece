@@ -10,6 +10,6 @@ namespace CoreLayer.Abstract
     public interface IAuthenticationHelper
     {
         public string CreateToken(string guid, int id);
-        public CurrentUserModel GetCurrentWasher();
+        public CurrentUserModel GetCurrentUser();
     }
 }

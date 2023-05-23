@@ -21,6 +21,14 @@ namespace DataAccessLayer.Concrete
         }
 
         public DbSet<User> Users { get; set; }
+        public DbSet<Plantation> Plantations { get; set; }
+        public DbSet<Product> Products { get; set; }
+        public DbSet<ProductType> ProductTypes { get; set; }
+        public DbSet<GrowingArea> GrowingAreas { get; set; }
+        public DbSet<SoilType> SoilTypes { get; set; }
+        public DbSet<IrrigationType> IrrigationTypes { get; set; }
+
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -31,6 +39,12 @@ namespace DataAccessLayer.Concrete
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<User>().ToTable("Users");
+            modelBuilder.Entity<Plantation>().ToTable("Plantations");
+            modelBuilder.Entity<Product>().ToTable("Products");
+            modelBuilder.Entity<ProductType>().ToTable("ProductTypes");
+            modelBuilder.Entity<GrowingArea>().ToTable("GrowingAreas");
+            modelBuilder.Entity<SoilType>().ToTable("SoilTypes");
+            modelBuilder.Entity<IrrigationType>().ToTable("IrrigationTypes");
         }
     }
 }

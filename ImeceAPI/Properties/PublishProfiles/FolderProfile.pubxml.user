@@ -5,6 +5,6 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\turan\source\repos\Imece\ImeceAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
-    <History>True|2023-05-22T20:33:35.3058428Z;True|2023-05-22T23:33:04.0388542+03:00;</History>
+    <History>True|2023-05-23T20:56:18.6597509Z;True|2023-05-22T23:33:35.3058428+03:00;True|2023-05-22T23:33:04.0388542+03:00;</History>
   </PropertyGroup>
 </Project>
